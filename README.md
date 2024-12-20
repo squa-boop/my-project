@@ -41,6 +41,7 @@ Before you begin, ensure you have the following installed:
  ## links
 slide - https://docs.google.com/presentation/d/1ChSx5f3uPqtkNmTIqzH0B2Fj98aaZ7boWxaatKSjH2A/edit?usp=sharing
 github - https://github.com/squa-boop/my-project.git
+recording - https://drive.google.com/file/d/1B1kiXljp0fi3SF51TXaLxxOr2pW20RzP/view
 
  
 
